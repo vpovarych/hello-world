@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">Register</button>
     
     <h2>Deploying on a VM </h2>
-
+    <h3> 3rd string</h3>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>

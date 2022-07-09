@@ -33,7 +33,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-      <h2>Deploying on a container </h2>
+      <h2>Deploying on a container + ansible </h2>
    
 
   
